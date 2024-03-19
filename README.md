@@ -1,6 +1,6 @@
 # Desafio Target Sistemas
 
-Apresento neste projeto as resoluções dos desadios propostos do processo seletivo para vaga de estágio em desenvolvimento na empresa Target sistemas
+Apresento neste projeto as resoluções dos desafios propostos do processo seletivo para vaga de estágio em desenvolvimento na empresa Target sistemas
 
 ## Pré-requisitos
 
@@ -32,7 +32,7 @@ git --version
 Isso deve exibir a versão do Git instalada no seu sistema.
 
 
-ara baixar e instalar o Node.js no Windows, siga estas etapas:
+Para baixar e instalar o Node.js no Windows, siga estas etapas:
 
 Baixe o instalador do Node.js:
 Acesse o site oficial do Node.js em https://nodejs.org/. Na página inicial, você verá botões de download para as versões LTS (Long Term Support) e Current (versão atual). Para a maioria dos casos, é recomendável baixar a versão LTS, pois é mais estável e é a versão mais amplamente suportada. Clique no botão de download correspondente à versão que deseja instalar.
